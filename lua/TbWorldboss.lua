@@ -1,0 +1,13 @@
+local TbWorldboss = {
+	{ id=1, nextId=2, heroId=20, displayScale=0.023, bossHp=15483, displayLv=30, displayPower=89000, map="yiguibattlemap1", bossGroup={1,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=2, nextId=3, heroId=19, displayScale=0.02, bossHp=8448, displayLv=30, displayPower=76000, map="yiguibattlemap1", bossGroup={2,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=3, nextId=4, heroId=9, displayScale=0.025, bossHp=9452, displayLv=30, displayPower=85000, map="yiguibattlemap1", bossGroup={3,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=4, nextId=5, heroId=56, displayScale=0.025, bossHp=25954, displayLv=30, displayPower=86000, map="yiguibattlemap1", bossGroup={4,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=5, nextId=6, heroId=53, displayScale=1.025, bossHp=9402, displayLv=30, displayPower=71000, map="yiguibattlemap1", bossGroup={5,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=6, nextId=7, heroId=91, displayScale=2.025, bossHp=15580, displayLv=30, displayPower=88000, map="yiguibattlemap1", bossGroup={6,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=7, nextId=8, heroId=86, displayScale=3.025, bossHp=9104, displayLv=30, displayPower=77000, map="yiguibattlemap1", bossGroup={7,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=8, nextId=9, heroId=51, displayScale=4.025, bossHp=9607, displayLv=30, displayPower=85000, map="yiguibattlemap1", bossGroup={8,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=9, nextId=10, heroId=84, displayScale=5.025, bossHp=25998, displayLv=30, displayPower=89000, map="yiguibattlemap1", bossGroup={9,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} },
+	{ id=10, nextId=1, heroId=99, displayScale=6.025, bossHp=9244, displayLv=30, displayPower=70000, map="yiguibattlemap1", bossGroup={10,26}, serverMaxDamage={17000,24000,32000,43000,59000,81000,112000,156000,220000}, stageHpAdd={0.25,0.5,0.75,1.0,1.25,1.5,1.75,2.0,2.25} }
+}
+return TbWorldboss

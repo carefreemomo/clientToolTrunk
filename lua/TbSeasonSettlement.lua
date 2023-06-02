@@ -1,0 +1,28 @@
+local TbSeasonSettlement = {
+	{ id=1, name="danGrading1", minStar=0, maxStar=3, afterName="danGrading1", afterStar=-1, seasonReward=1000301 },
+	{ id=2, name="danGrading2", minStar=4, maxStar=6, afterName="danGrading2", afterStar=-1, seasonReward=1000302 },
+	{ id=3, name="danGrading3", minStar=7, maxStar=9, afterName="danGrading3", afterStar=-1, seasonReward=1000303 },
+	{ id=4, name="danGrading4", minStar=10, maxStar=12, afterName="danGrading4", afterStar=-1, seasonReward=1000304 },
+	{ id=5, name="danGrading5", minStar=13, maxStar=15, afterName="danGrading5", afterStar=-1, seasonReward=1000305 },
+	{ id=6, name="danGrading6", minStar=16, maxStar=18, afterName="danGrading6", afterStar=-1, seasonReward=1000306 },
+	{ id=7, name="danGrading7", minStar=19, maxStar=22, afterName="danGrading7", afterStar=-1, seasonReward=1000307 },
+	{ id=8, name="danGrading8", minStar=23, maxStar=26, afterName="danGrading8", afterStar=-1, seasonReward=1000308 },
+	{ id=9, name="danGrading9", minStar=27, maxStar=30, afterName="danGrading9", afterStar=-1, seasonReward=1000309 },
+	{ id=10, name="danGrading10", minStar=31, maxStar=34, afterName="danGrading10", afterStar=-1, seasonReward=1000310 },
+	{ id=11, name="danGrading11", minStar=35, maxStar=38, afterName="danGrading10", afterStar=31, seasonReward=1000311 },
+	{ id=12, name="danGrading12", minStar=39, maxStar=42, afterName="danGrading10", afterStar=31, seasonReward=1000312 },
+	{ id=13, name="danGrading13", minStar=43, maxStar=46, afterName="danGrading11", afterStar=35, seasonReward=1000313 },
+	{ id=14, name="danGrading14", minStar=47, maxStar=50, afterName="danGrading12", afterStar=39, seasonReward=1000314 },
+	{ id=15, name="danGrading15", minStar=51, maxStar=55, afterName="danGrading13", afterStar=43, seasonReward=1000315 },
+	{ id=16, name="danGrading16", minStar=56, maxStar=60, afterName="danGrading14", afterStar=47, seasonReward=1000316 },
+	{ id=17, name="danGrading17", minStar=61, maxStar=65, afterName="danGrading14", afterStar=47, seasonReward=1000317 },
+	{ id=18, name="danGrading18", minStar=66, maxStar=70, afterName="danGrading15", afterStar=51, seasonReward=1000318 },
+	{ id=19, name="danGrading19", minStar=71, maxStar=75, afterName="danGrading16", afterStar=56, seasonReward=1000319 },
+	{ id=20, name="danGrading20", minStar=76, maxStar=80, afterName="danGrading17", afterStar=61, seasonReward=1000320 },
+	{ id=21, name="danGrading21", minStar=81, maxStar=85, afterName="danGrading17", afterStar=61, seasonReward=1000321 },
+	{ id=22, name="danGrading22", minStar=86, maxStar=90, afterName="danGrading18", afterStar=66, seasonReward=1000322 },
+	{ id=23, name="danGrading23", minStar=91, maxStar=95, afterName="danGrading19", afterStar=71, seasonReward=1000323 },
+	{ id=24, name="danGrading24", minStar=96, maxStar=100, afterName="danGrading20", afterStar=76, seasonReward=1000324 },
+	{ id=25, name="danGrading25", minStar=101, maxStar=300, afterName="danGrading21", afterStar=81, seasonReward=1000325 }
+}
+return TbSeasonSettlement
